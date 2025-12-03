@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Soy un estudiante de programación de 20 años en la Facultad de Ingeniería Mecánica y Eléctrica (FIME) de la UANL. Vivo en Monterrey, México, y tengo muchas ganas de aprender y mejorar mis habilidades en desarrollo de software.<br><br>💻 Actualmente, estoy explorando diferentes tecnologías y frameworks, trabajando en proyectos personales y académicos.<br>🚀 Me interesa el desarrollo web, la inteligencia artificial y la optimización de sistemas.<br>📚 Siempre abierto a colaborar en proyectos interesantes y aprender de la comunidad.<br><br>Siéntete libre de explorar mis repositorios y conectar conmigo. ¡Siempre dispuesto a aprender y compartir conocimiento!</p>
+<p align="left">Soy un estudiante de programación de 21 años en la Facultad de Ingeniería Mecánica y Eléctrica (FIME) de la UANL. Vivo en Monterrey, México, y tengo muchas ganas de aprender y mejorar mis habilidades en desarrollo de software.<br><br>💻 Actualmente, estoy explorando diferentes tecnologías y frameworks, trabajando en proyectos personales y académicos.<br>🚀 Me interesa el desarrollo web, la inteligencia artificial y la optimización de sistemas.<br>📚 Siempre abierto a colaborar en proyectos interesantes y aprender de la comunidad.<br><br>Siéntete libre de explorar mis repositorios y conectar conmigo. ¡Siempre dispuesto a aprender y compartir conocimiento!</p>
 
 ###
 
